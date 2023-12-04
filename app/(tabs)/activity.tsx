@@ -1,10 +1,10 @@
 import { StyleSheet, View } from 'react-native';
 import { Text } from 'react-native-paper';
 
-export default function Home() {
+export default function Activity() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab One</Text>
+      <Text style={styles.title}>Tab Two</Text>
     </View>
   );
 }
